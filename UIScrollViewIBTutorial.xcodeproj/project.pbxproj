@@ -299,6 +299,7 @@
 				DA5CBA901E0F13C600EADF3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
