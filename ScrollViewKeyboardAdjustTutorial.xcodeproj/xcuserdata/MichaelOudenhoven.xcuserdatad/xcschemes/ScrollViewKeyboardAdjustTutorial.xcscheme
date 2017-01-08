@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA5CBA7B1E0F13C600EADF3B"
-               BuildableName = "UIScrollViewIBTutorial.app"
-               BlueprintName = "UIScrollViewIBTutorial"
-               ReferencedContainer = "container:UIScrollViewIBTutorial.xcodeproj">
+               BuildableName = "ScrollViewKeyboardAdjustTutorial.app"
+               BlueprintName = "ScrollViewKeyboardAdjustTutorial"
+               ReferencedContainer = "container:ScrollViewKeyboardAdjustTutorial.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA5CBA7B1E0F13C600EADF3B"
-            BuildableName = "UIScrollViewIBTutorial.app"
-            BlueprintName = "UIScrollViewIBTutorial"
-            ReferencedContainer = "container:UIScrollViewIBTutorial.xcodeproj">
+            BuildableName = "ScrollViewKeyboardAdjustTutorial.app"
+            BlueprintName = "ScrollViewKeyboardAdjustTutorial"
+            ReferencedContainer = "container:ScrollViewKeyboardAdjustTutorial.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA5CBA7B1E0F13C600EADF3B"
-            BuildableName = "UIScrollViewIBTutorial.app"
-            BlueprintName = "UIScrollViewIBTutorial"
-            ReferencedContainer = "container:UIScrollViewIBTutorial.xcodeproj">
+            BuildableName = "ScrollViewKeyboardAdjustTutorial.app"
+            BlueprintName = "ScrollViewKeyboardAdjustTutorial"
+            ReferencedContainer = "container:ScrollViewKeyboardAdjustTutorial.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA5CBA7B1E0F13C600EADF3B"
-            BuildableName = "UIScrollViewIBTutorial.app"
-            BlueprintName = "UIScrollViewIBTutorial"
-            ReferencedContainer = "container:UIScrollViewIBTutorial.xcodeproj">
+            BuildableName = "ScrollViewKeyboardAdjustTutorial.app"
+            BlueprintName = "ScrollViewKeyboardAdjustTutorial"
+            ReferencedContainer = "container:ScrollViewKeyboardAdjustTutorial.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
