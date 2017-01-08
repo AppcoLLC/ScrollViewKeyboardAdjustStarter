@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="UIScrollViewIBTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ScrollViewKeyboardAdjustTutorial" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -35,11 +35,22 @@
                                                 <rect key="frame" x="149" y="10" width="76" height="30"/>
                                                 <state key="normal" title="Top Button"/>
                                             </button>
+                                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="text field" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="aib-am-nIR">
+                                                <rect key="frame" x="112.5" y="680" width="150" height="30"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="150" id="upM-yS-qJQ"/>
+                                                </constraints>
+                                                <nil key="textColor"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <textInputTraits key="textInputTraits"/>
+                                            </textField>
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="bottom" secondItem="WDc-rn-oI6" secondAttribute="bottom" constant="20" id="06m-29-gJP"/>
+                                            <constraint firstItem="WDc-rn-oI6" firstAttribute="top" secondItem="aib-am-nIR" secondAttribute="bottom" constant="20" id="Dc6-El-p9U"/>
                                             <constraint firstAttribute="height" constant="780" id="OR9-VD-bSq"/>
+                                            <constraint firstItem="aib-am-nIR" firstAttribute="centerX" secondItem="Vuo-7Q-EyT" secondAttribute="centerX" id="Rsn-CO-XUY"/>
                                             <constraint firstItem="LNc-8y-b5f" firstAttribute="centerX" secondItem="Vuo-7Q-EyT" secondAttribute="centerX" id="df1-ce-dGO"/>
                                             <constraint firstItem="WDc-rn-oI6" firstAttribute="centerX" secondItem="Vuo-7Q-EyT" secondAttribute="centerX" id="u1S-on-sdb"/>
                                             <constraint firstItem="LNc-8y-b5f" firstAttribute="top" secondItem="Vuo-7Q-EyT" secondAttribute="top" constant="10" id="wgD-Rc-p75"/>
